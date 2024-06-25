@@ -20,10 +20,6 @@ public class AccessModifier {
         dog.breed= "kukur";
         System.out.println("Breed: "+dog.breed+"\nName: "+dog.getName()+"\nDog age: "+dog.getAge());
     }
-
-    
-
-    
 }
 
 class Dog{

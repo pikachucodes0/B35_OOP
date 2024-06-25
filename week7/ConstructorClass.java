@@ -45,8 +45,5 @@ class cat{
     int getAge(){
         return this.age;
     }
-
-
-
 }
 
